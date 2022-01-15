@@ -1,6 +1,6 @@
 ### Olá, tudo bem? 🤙👋
 
-#### Me chamo Gabriel Santos, tenho 18 anos e me formei em Técnico em Informática em 2020 🌱
+#### Me chamo Gabriel Santos, tenho 1 anos e me formei em Técnico em Informática em 2020 🌱
 #### Sempre gostei muito da área de tecnologia, com isso fui me direcionando para a área de programação e até mesmo edição de vídeos 💻
 
 #### Venho adquirindo cursos, na Udemy por exemplo, que está me fazendo crescer cada vez mais na área de programação e estou utilizando destes principios para cada vez mais ter um crescimento pessoal, para que com isso possa oferecer um melhor serviço para empresas 📈
