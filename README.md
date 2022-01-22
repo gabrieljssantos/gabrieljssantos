@@ -1,4 +1,4 @@
-<h2 align="center">Eai, beleza? Eu sou <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Gabriel Santos</i></a> 🤙👋</h2>
+<h2 align="center">Eai, beleza? Eu sou <a href="https://www.linkedin.com/in/gabriel-santos-87922b170//"><i>Gabriel Santos</i></a> 🤙👋</h2>
 <div>
   <p align="center"><b><i>Técnico em informatica pela </i></b><i>ETEC Profª Ilza Nascimento Pintus</i> e cursando <i><b>Banco de Dados</b></i>, pela <i>FATEC - Prof. Jessen Vidal</i></p>
   
