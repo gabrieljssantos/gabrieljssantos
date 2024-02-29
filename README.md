@@ -2,7 +2,7 @@
 <div>
   <p align="center"><b><i>Técnico em informatica pela </i></b><i>ETEC Profª Ilza Nascimento Pintus</i> e cursando <i><b>Banco de Dados</b></i>, pela <i>FATEC - Prof. Jessen Vidal</i></p>
   
-  <p align="center">Estudo <b>Desenvolvimento FullStack com JavaScript</b> na <a href="https://jstack.com.br/"><i>JStack</i></a> com o professor <a href="https://www.instagram.com/imateus.silva/"><i>Mateus Silva</i></a>, e tambem com a plataforma <a href="https://www.origamid.com/"><i>Origamid</i></a> onde venho sempre buscando me aprofundar na stack, tanto para Front-End, Back-End e Mobile </p>
+bem com a plataforma <a href="https://www.origamid.com/"><i>Origamid</i></a> onde venho sempre buscando me aprofundar na stack, tanto para Front-End, Back-End e Mobile </p>
 
 <br><br>
 <p align="center"><i>“Uma pessoa só está sentada em uma sombra hoje porque outra plantou uma árvore há muito tempo atrás.” Warren Buffet "</i></p>  
